@@ -38,4 +38,5 @@ public class PostByIdController {
                     "\nTITLE: " + post.getTitle() + ". \nCONTENT: " + post.getBody() + ".";
         }
     }
+
 }

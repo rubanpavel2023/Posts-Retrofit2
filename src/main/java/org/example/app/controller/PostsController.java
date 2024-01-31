@@ -37,7 +37,6 @@ public class PostsController {
             StringBuilder stringBuilder = getStringBuilder(posts);
             return stringBuilder.toString();
         }
-
     }
 
     @NotNull

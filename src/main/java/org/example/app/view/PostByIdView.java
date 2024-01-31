@@ -13,4 +13,5 @@ public class PostByIdView {
     public void getOutput(String output) {
         System.out.println(output);
     }
+
 }

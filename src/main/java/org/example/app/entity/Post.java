@@ -31,5 +31,6 @@ public class Post {
                 "\"title\":\"" + title + "\"," +
                 "\"body\":\"" + body + "\"}";
     }
+
 }
 

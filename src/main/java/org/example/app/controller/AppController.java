@@ -30,4 +30,5 @@ public class AppController {
             default -> throw new IllegalStateException("Unexpected value: " + choice);
         }
     }
+
 }
