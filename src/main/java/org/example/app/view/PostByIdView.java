@@ -2,8 +2,7 @@ package org.example.app.view;
 
 import java.util.Scanner;
 
-public class UserByIdView {
-
+public class PostByIdView {
     Scanner scanner = new Scanner(System.in);
 
     public String getData() {
