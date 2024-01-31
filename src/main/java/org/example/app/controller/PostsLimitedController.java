@@ -53,6 +53,5 @@ public class PostsLimitedController {
         }
         return stringBuilder;
     }
-
 }
 

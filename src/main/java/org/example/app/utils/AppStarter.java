@@ -12,5 +12,4 @@ public class AppStarter {
         AppController controller = new AppController(appModel, appView);
         controller.runApp();
     }
-
 }

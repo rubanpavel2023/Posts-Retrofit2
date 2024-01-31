@@ -27,5 +27,4 @@ public class AppView {
         scanner.close();
         System.exit(0);
     }
-
 }
