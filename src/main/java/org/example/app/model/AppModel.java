@@ -33,7 +33,6 @@ public class AppModel {
                 new PostsLimitedController(model, view);
         controller.getPostsLimited();
     }
-
 }
 
 

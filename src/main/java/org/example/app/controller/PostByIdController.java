@@ -37,5 +37,6 @@ public class PostByIdController {
             return "\nPost: PostId " + post.getId() + ", postId " + post.getId() + "." +
                     "\nTITLE: " + post.getTitle() + ". \nCONTENT: " + post.getBody() + ".";
         }
+
     }
 }

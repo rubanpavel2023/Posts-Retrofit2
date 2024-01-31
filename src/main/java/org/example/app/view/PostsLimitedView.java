@@ -14,5 +14,4 @@ public class PostsLimitedView {
         System.out.println(output);
     }
 
-
 }
